@@ -13,4 +13,8 @@ I'm Hyo, a movement scientist and physical therapist, working on the 5th year po
 ## Topics I am Excited About
 - How to efficiently raise a child without being stressed out
 - Learning fun things to do to enjoy my time outside work
-- K-culture: food, music, and entertaining stuff
+- K-culture: food, music (PLAVE), and entertaining stuff
+
+## Favorite Open Science Tools
+- R
+- GitHub
